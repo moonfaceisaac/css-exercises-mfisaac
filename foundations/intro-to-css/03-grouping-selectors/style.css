@@ -1,0 +1,13 @@
+.buttonx, .buttony {
+    font-size: 28;
+    font-family: Helvetica,"Times New Roman", sans-serif;
+}
+
+.buttonx {
+    background-color: black;
+    color:white;
+}
+
+.buttony{
+    background: hsl(61, 100%, 55%);
+}
