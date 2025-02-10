@@ -23,3 +23,50 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+/* ------------------------------------------------------ */
+.header  {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Helvetica, sans-serif
+
+}
+
+.logo {
+  /* margin: 10px; */
+
+}
+
+ul {
+  /* this removes the dots on the list items*/
+  display: flex;
+  padding: 0px;
+
+
+}
+
+a {
+  margin: 5px;
+  font-weight: 700;
+
+  /* this removes the line under the links */
+
+}
+.left-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  /* justify-content: flex-start; */
+
+}
+.right-links {
+  display: flex;
+  align-items: center;
+
+}
+
+li{
+  font-weight: 700px;
+}
